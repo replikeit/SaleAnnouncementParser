@@ -42,7 +42,7 @@ namespace Parser
             StartParse();
         }
 
-        private void SetCount() => counterLabel.Invoke(new Action(() => counterLabel.Text = "Count Parsed Urls: " + (++Program.countOfParsedLines).ToString()));
+        private void SetCount() => counterLabel.Invoke(new Action(() => counterLabel.Text = "Count of Parsed Urls: " + (++Program.countOfParsedLines).ToString()));
 
         private async void StartParse()
         {
@@ -79,11 +79,12 @@ namespace Parser
                     formatter.Serialize(fs, testArr.ToArray());
                 }
 
-                Cef.Shutdown();
-                Thread.Sleep(10000);
-
+                
                 Process.Start("Parser.exe");
-                this.Close();
+                this.Invoke(new Action(() =>
+                {
+                    this.Close();
+                }));
             }
         }
 
