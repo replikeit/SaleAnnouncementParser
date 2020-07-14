@@ -1,0 +1,4 @@
+Black_Desert Silver EU,_US black-desert-online/silver-23306-23307
+Black_Desert Items EU,_US black-desert-online/item-23306-23309
+Black_Desert Services EU,_US black-desert-online/boosting-service-23306-23310
+Black_Desert Accounts EU,_US black-desert-online/account-23306-23308

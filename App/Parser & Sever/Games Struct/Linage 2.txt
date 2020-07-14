@@ -1,0 +1,4 @@
+Lineage_2 Adena EU,_NA lineage-2/adena-22652-22653
+Lineage_2 Items EU,_NA lineage-2/item-22652-22654
+Lineage_2 Boosting EU,_NA lineage-2/boosting-service-22652-25522
+Lineage_2 Accounts EU,_NA lineage-2/account-22652-22655

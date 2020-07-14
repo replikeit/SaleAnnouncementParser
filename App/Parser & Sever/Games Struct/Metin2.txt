@@ -1,0 +1,4 @@
+Metin2 Yang Any metin2/yang-25002-25008
+Metin2 Items Any metin2/item-25002-25011
+Metin2 Services Any metin2/boosting-service-25002-25010
+Metin2 Accounts Any metin2/account-25002-25009

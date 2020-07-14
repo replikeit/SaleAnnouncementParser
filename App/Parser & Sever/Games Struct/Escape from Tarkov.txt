@@ -1,0 +1,6 @@
+Escape_from_Tarkov Rubles Any escape-from-tarkov/currency-24640-25718?&server=29955
+Escape_from_Tarkov Dollars Any escape-from-tarkov/currency-24640-25718?&server=29953
+Escape_from_Tarkov Euro Any escape-from-tarkov/currency-24640-25718?&server=29954
+Escape_from_Tarkov Items Any escape-from-tarkov/item-24640-24646
+Escape_from_Tarkov Accounts Any escape-from-tarkov/account-24640-24645
+Escape_from_Tarkov Services Any escape-from-tarkov/boosting-service-24640-24647

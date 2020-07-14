@@ -1,0 +1,3 @@
+Neverwinter Diamonds Any neverwinter-global/astral-diamond-18247-19239
+Neverwinter Items Any neverwinter-global/Item-18247-19250
+Neverwinter Accounts Any neverwinter-global/account-18247-23876

@@ -1,0 +1,5 @@
+NHL#1 Coins Any nhl-20/coins-26323-26325
+NHL#1 Services Any nhl-20/item-26323-27446
+NHL#1 Accounts Any nhl-20/account-26323-26324
+NHL#2 Coins Any nhl-19/coins-25422-25427
+NHL#2 Accounts Any nhl-19/account-25422-25428

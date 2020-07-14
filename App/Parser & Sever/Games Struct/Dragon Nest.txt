@@ -1,0 +1,4 @@
+Dragon_Nest Gold Any dragon-nest/gold-24341-24342
+Dragon_Nest Accounts Any dragon-nest/account-24341-24343
+Dragon_Nest Services Any dragon-nest/boosting-service-24341-24344
+Dragon_Nest Items Any dragon-nest/item-24341-24345

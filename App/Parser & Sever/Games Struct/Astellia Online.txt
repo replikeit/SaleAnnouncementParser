@@ -1,0 +1,4 @@
+Astellia_Online Gold Any astellia-online/asper-26429-26430
+Astellia_Online Items Any astellia-online/item-26429-26431
+Astellia_Online Services Any astellia-online/boosting-service-26429-26433
+Astellia_Online Accounts Any astellia-online/account-26429-26432

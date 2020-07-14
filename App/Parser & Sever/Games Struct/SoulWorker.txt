@@ -1,0 +1,4 @@
+SoulWorker Accounts Any soulworker/account-24881-24883
+SoulWorker Services Any soulworker/boosting-service-24881-24884
+SoulWorker Items Any soulworker/item-24881-24885
+SoulWorker Dzenai Any soulworker/dzenai-24881-24882

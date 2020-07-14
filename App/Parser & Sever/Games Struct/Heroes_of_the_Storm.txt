@@ -1,0 +1,2 @@
+Heroes_of_the_Storm Services Any heroes-of-the-storm-global/boosting-service-21552-22942
+Heroes_of_the_Storm Accounts Any heroes-of-the-storm-global/account-21552-21553

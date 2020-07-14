@@ -1,0 +1,4 @@
+Lost_Ark Gold Any lost-ark/gold-23027-23030
+Lost_Ark Items Any lost-ark/item-23027-23032
+Lost_Ark Services Any lost-ark/boosting-service-23027-23033
+Lost_Ark Accounts Any lost-ark/account-23027-23031

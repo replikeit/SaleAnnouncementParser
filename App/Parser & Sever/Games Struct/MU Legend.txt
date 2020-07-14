@@ -1,0 +1,4 @@
+MU_Legend Zen_(gold) Any mu-legend/zen-23920-23921
+MU_Legend Items Any mu-legend/item-23920-23923
+MU_Legend Accounts Any mu-legend/account-23920-23922
+MU_Legend Services Any mu-legend/boosting-service-23920-23924

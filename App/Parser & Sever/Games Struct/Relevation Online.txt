@@ -1,0 +1,4 @@
+Revelation Gold EU,_NA revelation-online/imperial-coins-23828-23833
+Revelation Items EU,_NA revelation-online/item-23828-23835
+Revelation Services EU,_NA revelation-online/boosting-service-23828-23836
+Revelation Accounts EU,_NA revelation-online/account-23828-23834

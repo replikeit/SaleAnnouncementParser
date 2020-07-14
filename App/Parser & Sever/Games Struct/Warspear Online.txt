@@ -1,0 +1,4 @@
+Warspear_Online Gold Any warspear-online/gold-23624-23625
+Warspear_Online Items Any warspear-online/item-23624-23628
+Warspear_Online Services Any warspear-online/boosting-service-23624-23627
+Warspear_Online Accounts Any warspear-online/account-23624-23626

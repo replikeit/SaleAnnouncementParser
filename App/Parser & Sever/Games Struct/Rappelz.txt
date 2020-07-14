@@ -1,0 +1,4 @@
+Rappelz Rupees Any rappelz/rupees-25999-26000
+Rappelz Items Any rappelz/item-25999-26003
+Rappelz Services Any rappelz/boosting-service-25999-26002
+Rappelz Accounts Any rappelz/account-25999-26001

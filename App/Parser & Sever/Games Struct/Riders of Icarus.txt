@@ -1,0 +1,4 @@
+Icarus Gold EU,_US riders-of-icarus/gold-23618-23619
+Icarus Items EU,_US riders-of-icarus/item-23618-23622
+Icarus Services EU,_US riders-of-icarus/boosting-service-23618-23621
+Icarus Accounts EU,_US riders-of-icarus/account-23618-23620

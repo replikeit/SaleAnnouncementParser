@@ -1,0 +1,3 @@
+Perfect_World Coins EU,_US,_SEA perfect-world/coins-23495-23497
+Perfect_World Items EU,_US,_SEA perfect-world/item-23495-23496
+Perfect_World Accounts EU,_US,_SEA perfect-world/account-23495-23498

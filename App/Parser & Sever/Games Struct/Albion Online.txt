@@ -1,0 +1,5 @@
+Albion_Online Silver Any albion-online-global/Gold-21695-21696
+Albion_Online Items Any albion-online-global/item-21695-21698
+Albion_Online Services Any albion-online-global/boosting-service-21695-23568
+Albion_Online Accounts Any albion-online-global/account-21695-21697
+Albion_Online Services Any albion-online-global/top-up-21695-24357
