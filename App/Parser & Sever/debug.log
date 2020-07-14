@@ -1,0 +1,3 @@
+[0521/153527.868:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0521/153527.868:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0522/233828.515:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 515
