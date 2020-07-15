@@ -1,7 +1,7 @@
 # Sale Announcements Parser
 <h3>Description</h3> 
 Parser for tracking sale announcements on two games sites: g2g.com, funpay.ru<br/>
-The program is written on C# with TCP for transporting data and AngleSharp, CefSharp for parsing<br/><br/>
+The program is written on C# with TCP for transporting data and AngleSharp, CefSharp for parsing<br/>
 <h3>Installation</h3> 
 <ul>
   <li>
