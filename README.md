@@ -28,7 +28,7 @@ The program is written on C# with TCP for transporting data and AngleSharp, CefS
   </li>
   <li>
     <p>After launch "Parser.exe",parsing sites starts automatically.</p>
-    <img width="450px" src="https://sun9-28.userapi.com/c858416/v858416325/218a15/B2pCCWZeVPY.jpg"/>
+    <img width="650px" src="https://sun9-28.userapi.com/c858416/v858416325/218a15/B2pCCWZeVPY.jpg"/>
   </li>
   <li>
     <p>After each cycle, the parser saves data about sites in the file "CurrentData.bin", which is then transmitted to the client.</p>
