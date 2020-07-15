@@ -5,3 +5,6 @@ The program is written on C# with TCP for transporting data and AngleSharp, CefS
 <h3>Installation</h3> 
 1)Put "Parser & Server" on the server, and then copy DLL's to the directory. <br/>
 2)Put "Reader" on the clients hosts.<br/><br/>
+<h3>Manual</h3> 
+<h5>Guide for a Sever</h5>
+<h5>Guide for a Client</h5>
