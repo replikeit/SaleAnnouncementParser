@@ -9,7 +9,7 @@ The program is written on C# with TCP for transporting data and AngleSharp, CefS
 <ul>
 <li>
 <p>First of all, set the settings for the “settings.cfg” file in the “Reader” and “Parser & Server” directories.</p>
-<img src=""/>
+<img src="https://prnt.sc/ti7cpp"/>
 </li>
 <li>
 <p><code>mcs program.cs</code> C# compiler</p>
