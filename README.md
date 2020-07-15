@@ -37,11 +37,11 @@ The program is written on C# with TCP for transporting data and AngleSharp, CefS
 <ul>
   <li>
     <p>Run “Reader.exe” and push the “Refresh Data” button.</p>
-    <img width="650px" src="https://sun9-16.userapi.com/c858416/v858416542/2192a7/Kdu1BqNYfts.jpg"/>
+    <img width="250px" src="https://sun9-16.userapi.com/c858416/v858416542/2192a7/Kdu1BqNYfts.jpg"/>
   </li>
   <li>
     <p>When data transpoting has been done, you can read current parsed data about sites. </p>
-    <img width="350px" src="https://sun9-70.userapi.com/c858416/v858416542/2192d7/Ym7CKFgg1u8.jpg"/>
+    <img width="750px" src="https://sun9-70.userapi.com/c858416/v858416542/2192d7/Ym7CKFgg1u8.jpg"/>
   </li>
   <li>
     <p>You can update the data every time as you want.</p>
